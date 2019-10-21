@@ -1,0 +1,41 @@
+{
+  "name": "selenium-node",
+  "version": "1.0.0",
+  "description": "test automation with selenium and mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deargopinath/selenium-node.git"
+  },
+  "keywords": [
+    "selenium",
+    "jest",
+    "test",
+    "automation",
+    "typescript",
+    "gui",
+    "browser"
+  ],
+  "author": "Srinivas Gopinath Parimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deargopinath/selenium-node/issues"
+  },
+  "homepage": "https://github.com/deargopinath/selenium-node#readme",
+  "dependencies": {
+    "@types/chai": "^4.2.3",
+    "@types/js-yaml": "^3.12.1",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.11.1",
+    "@types/selenium-webdriver": "^4.0.5",
+    "@types/yaml": "^1.2.0",
+    "chai": "^4.2.0",
+    "js-yaml": "^3.13.1",
+    "mocha": "^6.2.2",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "typescript": "^3.6.4"
+  }
+}
