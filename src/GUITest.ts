@@ -39,8 +39,6 @@ it('Test 2',
 
 after(
   function() {
-    try {
-      se.quit()
-    } catch(e) {console.log(e)}
+    se.quit()
   }
 )
