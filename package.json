@@ -29,11 +29,11 @@
     "@types/js-yaml": "^3.12.1",
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.11.1",
-    "@types/selenium-webdriver": "^4.0.5",
+    "@types/selenium-webdriver": "4.0.9",
     "@types/yaml": "^1.2.0",
     "js-yaml": "^3.13.1",
     "mocha": "^6.2.2",
-    "selenium-webdriver": "^4.0.0-alpha.5",
+    "selenium-webdriver": "4.0.0-alpha.7",
     "typescript": "^3.6.4"
   }
 }
